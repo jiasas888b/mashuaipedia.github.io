@@ -1,7 +1,7 @@
 # MaShuaiPedia
 
-a App made in HTML,js,css
+<p>a App made in HTML,js,css</p>
 
-一个HTML，JavaScript，css做的软件
+<p>一个HTML，JavaScript，css做的软件</p>
 
-Amdroid 4.4+
+<b>Android 4.4+</b>
